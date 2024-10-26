@@ -14,7 +14,7 @@ public class Main {
 
        System.out.print (a);
        System.out.println(a+"\n"+b);
-       System.out.printf("name %s, age %d \n", name, age);
+       System.out.printf("name %s, age %d \n", "name", "age");
        System.out.printf("name, age %.2f\n:", 50.0 );
 
         }
